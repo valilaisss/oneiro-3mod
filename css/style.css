@@ -229,7 +229,7 @@ canvas {
     line-height: 2.03vw;
     letter-spacing: -3%;
     user-select: none;
-    z-index: 45;
+    z-index: 65;
     cursor: pointer;
     opacity: 0;
     transform: scale(0.5);
