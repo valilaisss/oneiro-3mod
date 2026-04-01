@@ -546,6 +546,7 @@ canvas {
     top: 0;
     width: 35.15625%;
     height: 100%;
+    cursor: pointer;
 }
 
 .overlay-right {
@@ -554,6 +555,7 @@ canvas {
     top: 0;
     width: 35.15625%;
     height: 100%;
+    cursor: pointer;
 }
 
 .text-between {
