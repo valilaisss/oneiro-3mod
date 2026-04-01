@@ -180,7 +180,7 @@ canvas {
 
 .bg-nap {
     position: absolute;
-    z-index: 40;
+    z-index: 60;
     cursor: pointer;
     font-size: 3.28vw;
     height: 2.29vw;
