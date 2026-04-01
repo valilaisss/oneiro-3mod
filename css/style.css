@@ -759,6 +759,11 @@ canvas {
 }
 
 @media(max-width: 360px) {
+
+    #model-container {
+    width: 50%;
+    height: 50%;
+    }
     .catastrophe-img {
         display: none;
     }
